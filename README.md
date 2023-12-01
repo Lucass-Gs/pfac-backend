@@ -42,5 +42,6 @@ $ npm run test:cov
 
 ### Regras de Negócio
 
+* [ ] O usuário deve se cadastrar com um email, nome de usuário e uma senha
 * [ ] A aplicação deve armazenar as mensagens enviadas pelos usuários
 * [ ] As mensagens devem ser recebidas em tempo real
